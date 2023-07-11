@@ -2,9 +2,9 @@ class Solution:
     def helloworld(self, string):
         #input type: String
         # return type: String
-
+        
         # TODO: Write code below to return a string with the solution to the prompt
-        print("hello world")
+        return string 
         pass
 
 def main():
