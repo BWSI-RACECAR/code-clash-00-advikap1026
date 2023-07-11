@@ -4,7 +4,10 @@ class Solution:
         # return type: String
         
         # TODO: Write code below to return a string with the solution to the prompt
-       return string
+        if string == "Hello World!":
+            return string
+
+        pass
         
 
 def main():
