@@ -5,8 +5,11 @@ class Solution:
         
         # TODO: Write code below to return a string with the solution to the prompt
         if string == "Hello World!":
-            return "Hello World!"
+            return string
+        else:
+            return ""
         pass
+        
 
 def main():
     tc1 = Solution()
