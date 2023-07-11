@@ -4,7 +4,7 @@ class Solution:
         # return type: String
 
         # TODO: Write code below to return a string with the solution to the prompt
-        print(string)
+        print("hello world")
         pass
 
 def main():
