@@ -7,7 +7,7 @@ class Solution:
         if string == "Hello World!":
             return string
         else:
-            return "Hellow World!"
+            return "Hello World!"
         pass
         
 
